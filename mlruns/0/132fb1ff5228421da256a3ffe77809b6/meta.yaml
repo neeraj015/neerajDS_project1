@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/p1_DS/mlruns/0/132fb1ff5228421da256a3ffe77809b6/artifacts
+end_time: 1751987267016
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 132fb1ff5228421da256a3ffe77809b6
+run_name: peaceful-rook-223
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751987226668
+status: 3
+tags: []
+user_id: root

@@ -1,3 +1,5 @@
+
+from src.mlproject.components.model_trainer import ModelTrainer
 from src.mlproject.logger import logging
 from src.mlproject.exception import CustomException
 from src.mlproject.components.data_ingestion import DataIngestion
