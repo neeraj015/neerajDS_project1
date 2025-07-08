@@ -1,0 +1,14 @@
+artifact_uri: file:///E:/p1_DS/mlruns/0/646aae832cb24396b2849fbdd72f1a2b/artifacts
+end_time: 1752003957909
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 646aae832cb24396b2849fbdd72f1a2b
+run_name: calm-deer-499
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752003953102
+status: 3
+tags: []
+user_id: root
